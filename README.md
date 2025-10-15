@@ -11,7 +11,7 @@ This is a simple Flask-based web application to manage daily tasks. Users can ad
 - Tasks persist in SQLite database
 
 ## Technologies
-- Python 3.x
+- Python 3.10
 - Flask
 - Flask-SQLAlchemy
 - SQLite
