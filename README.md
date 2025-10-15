@@ -41,10 +41,8 @@ python app.py
 ### 5. Access the app in your browser at `http://127.0.0.1:5000`
 
 ## Deployment
-The app is deployed on PythonAnywhere at:  
-````bash
-https://Roopesh377.pythonanywhere.com
-````
+### The app is deployed on PythonAnywhere at: https://Roopesh377.pythonanywhere.com
+
 
 ## Challenges & Notes
 - Database schema migrations were handled by dropping and recreating the SQLite database during development.
